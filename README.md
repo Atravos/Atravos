@@ -53,5 +53,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ✍️ Portfolio Website / Misc : 
 - [My Portfolio Website](https://www.atravos.com/)
-- [Icon Website](https://github.com/devicons/devicon/)<!-- BLOG-POST-LIST:START -->
+- [Icon Website](https://github.com/devicons/devicon/)
+- [Static Badge](https://shields.io/badges)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
