@@ -7,7 +7,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Atravos&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">I create stuff sometimes <img src="https://media.giphy.com/media/lnSbbEZ1Sr9EikvJEN/giphy-downsized.gif" width="40"></h1>
+<h1 align="center">I create stuff sometimes <img src="https://media.giphy.com/media/lnSbbEZ1Sr9EikvJEN/giphy-downsized.gif" width="40" ></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
