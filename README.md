@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring human-computer interactions and everything in between.
 - ⚡ In my free time I play Fallout and watch movies. 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hunter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunterreesewalker)
-- 
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
