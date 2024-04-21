@@ -27,7 +27,7 @@
 [<img alt="webDev | Medium" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][medium]
 [<img alt="webDev | Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />][github]
 
-### 🍻 Support the endeavour:
+### 🍻 Support the endeavor:
 
 [<img alt="webDev | Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" />][buymeacoffee]
 
